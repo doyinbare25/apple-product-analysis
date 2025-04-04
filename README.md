@@ -1,7 +1,7 @@
 # 📊 iPhone Product Data Analysis (Flipkart Dataset)
 
 This project involves analyzing Apple iPhone product data using Python and pandas.
- The dataset is sourced from Flipkart and contains product names, prices, ratings, and reviews.
+The dataset is sourced from Flipkart and contains product names, prices, ratings, and reviews.
 
 ---
 
@@ -44,4 +44,5 @@ To analyze, draw insights, and make informed business decisions by exploring tre
 
 ## 🤝 Connect
 
-Feel free to reach out on [LinkedIn](#) or email for collaboration or feedback.
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/adedoyin-ogunyomi/) or email for collaboration or feedback.
+
